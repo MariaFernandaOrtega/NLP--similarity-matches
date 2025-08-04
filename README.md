@@ -4,7 +4,7 @@ This project uses natural language processing (NLP) techniques to assess the **t
 
 ---
 
-## 🔍 Objective
+## Objective
 
 To determine how closely the GSS 2025 sustainability sessions align with the T20’s formal policy recommendations by:
 - Extracting and segmenting key texts
@@ -12,23 +12,22 @@ To determine how closely the GSS 2025 sustainability sessions align with the T20
 - Presenting the top sentence matches and shared thematic areas
 
 ---
-## 📁 Repository Structure
+##  Repository Structure
 
 
 
 ---
 
-## 📊 Results
-
-- **Top sentence matches** with shared policy relevance and high similarity scores:  
-  👉 [View highlighted matches](https://mariafernandaortega.github.io/NLP--similarity-matches/top_sentence_matches_highlighted.html)
+##  Results
 
 - **Top 13 similarity results** clustered by thematic overlap:  
   👉 [View top thematic similarities](https://mariafernandaortega.github.io/NLP--similarity-matches/top_13_similarity_results_with_shared_topics.html)
 
+- **Top sentence matches** with shared policy relevance and high similarity scores:  
+  👉 [View highlighted matches](https://mariafernandaortega.github.io/NLP--similarity-matches/top_sentence_matches_highlighted.html)
 ---
 
-## 🛠️ Tools and Libraries
+##  Tools and Libraries
 
 - **Text Processing**: `nltk`, `re`, `spacy`, `python-docx`
 - **Embedding Model**: `sentence-transformers` (Sentence-BERT)
