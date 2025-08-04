@@ -15,11 +15,17 @@ To determine how closely the GSS 2025 sustainability sessions align with the T20
 ##  Repository Structure
 
 ├── Similarity analysis_code.ipynb # Jupyter Notebook with full analysis code
+
 ├── Methodology.pdf # Detailed write-up of the methodology
+
 ├── Summary action points- sustainability.docx # GSS 2025 action points document
+
 ├── T20 communique.docx # T20 policy recommendation document
+
 ├── top_13_similarity_results_with_shared_topics.html # HTML output: top thematic similarity results
+
 ├── top_sentence_matches_highlighted.html # HTML output: sentence-level similarity highlights
+
 ├── README.md # Project overview and instructions
 
 ---
