@@ -31,10 +31,10 @@ To determine how closely the GSS 2025 sustainability sessions align with the T20
 
 ##  Results
 
-- **Top 13 similarity results** clustered by thematic overlap:  
+- **Top 13 similarity results** :  
   👉 [View top thematic similarities](https://mariafernandaortega.github.io/NLP--similarity-matches/top_13_similarity_results_with_shared_topics.html)
 
-- **Top sentence matches** with shared policy relevance and high similarity scores:  
+- **Identification of common terminology across Action Points and Recommendations** :  
   👉 [View highlighted matches](https://mariafernandaortega.github.io/NLP--similarity-matches/top_sentence_matches_highlighted.html)
 ---
 
