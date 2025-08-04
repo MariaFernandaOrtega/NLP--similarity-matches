@@ -16,7 +16,7 @@ To determine how closely the GSS 2025 sustainability sessions align with the T20
 
 ├── Similarity analysis_code.ipynb # Jupyter Notebook with full analysis code
 
-├── Methodology.pdf # Detailed write-up of the methodology
+├── Methodology.pdf 
 
 ├── Summary action points- sustainability.docx # GSS 2025 action points document
 
@@ -26,7 +26,6 @@ To determine how closely the GSS 2025 sustainability sessions align with the T20
 
 ├── top_sentence_matches_highlighted.html # HTML output: sentence-level similarity highlights
 
-├── README.md # Project overview and instructions
 
 ---
 
