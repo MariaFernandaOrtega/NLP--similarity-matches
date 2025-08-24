@@ -1,4 +1,4 @@
-# NLP-Based Similarity Analysis: GSS 2025 (Climate Change Cluster) & T20 Communiqué
+# NLP-Based Similarity Analysis: GSS 2025 (Climate Action Cluster) & T20 Communiqué
 
 This project uses natural language processing (NLP) techniques to assess the thematic alignment between **sustainability-related action points** from the *Global Solutions Summit (GSS) 2025* and the **policy recommendations** from the *T20 Communiqué*. The analysis focuses on identifying overlapping themes and shared policy priorities by measuring **semantic similarity** between texts.
 
